@@ -9,4 +9,8 @@ Get Git set up on the system of your choice. Play with it for a while until you 
 
 ******************************************
 
+<<<<<<< HEAD
 This is my edit on the first branch of my repository.
+=======
+This is my edit on the second branch of my repository.
+>>>>>>> secondbranch
